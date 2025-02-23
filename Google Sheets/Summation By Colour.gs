@@ -1,4 +1,3 @@
-
 function SUM_BY_FONT_COLOUR(input) {
   if (!input || !input.map) {
     return [["Error", "Invalid input. Please select a valid range."]];
